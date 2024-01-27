@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SafeMe</string>
+    <string name="key">AIzaSyBfswrI1PAHbb5r0s3Z-q_yzbrjC1E6vYQ</string>
+    <string name="add_10">+10</string>
+    <string name="add_1">+1</string>
+    <string name="default_clock_value">0</string>
+    <string name="separator">:</string>
+    <string name="minus_10">-10</string>
+    <string name="minus_1">-1</string>
+    <string name="przerwij_podczas_zmiany_lokalizacji">Przerwij podczas zmiany lokalizacji:</string>
+    <string name="czas_na_zastopowanie">Czas na zastopowanie:</string>
+    <string name="save">SAVE</string>
+</resources>

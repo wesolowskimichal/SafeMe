@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="panel">#C51162</color>
+    <color name="sub_panel">#D50000</color>
+    <color name="start_button">#2962FF</color>
+    <color name="stop_button">#DD2C00</color>
+    <color name="contact_preview_bg">#AA00FF</color>
+</resources>
